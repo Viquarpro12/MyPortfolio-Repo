@@ -1,2 +1,2 @@
-# ViquarPortfo
+# ViquarPortfolio
 Viquar personal Portfolio Website
